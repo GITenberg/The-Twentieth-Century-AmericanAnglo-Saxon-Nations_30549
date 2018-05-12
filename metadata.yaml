@@ -1,0 +1,35 @@
+_repo: The-Twentieth-Century-AmericanAnglo-Saxon-Nations_30549
+_version: 0.1.0
+alternative_title: "The 20th Century American\r\nBeing a Comparative Study of the\
+  \ Peoples of the Two Great Anglo-Saxon Nations"
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robinson, Harry Perry
+    aliases:
+    - Robinson, H. Perry (Harry Perry)
+    - Robinson, Harry P. (Harry Perry)
+    - Robinson, H. P. (Harry Perry)
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '34671'
+    url: http://www.gutenberg.org/2009/agents/34671
+description: ''
+gutenberg_issued: '2009-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30549'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Civilization'
+- !lcsh 'Great Britain -- Civilization'
+- !lcc 'E151'
+- !lcc 'DA'
+title: "The Twentieth Century American\r\nBeing a Comparative Study of the Peoples\
+  \ of the Two Great Anglo-Saxon Nations"
+url: http://www.gutenberg.org/ebooks/30549
